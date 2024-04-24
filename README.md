@@ -8,5 +8,7 @@ Usage
 You can use the DVD rental database for various purposes, including:
 
 Managing rental transactions and inventory.
+
 Analyzing sales performance and customer behavior.
+
 Generating reports and insights for business decision-making.
